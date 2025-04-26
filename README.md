@@ -1,8 +1,14 @@
 
 # **AI Internship Pathway Agent**
-
+   
 ## **About the Project**
 This project simplifies the internship application process by leveraging AI-powered tools to optimize resumes, automate applications, and centralize internship opportunities from multiple platforms. It includes a web application and a Chrome extension to provide seamless functionality for users.
+
+---
+## Watch a quick demo!!!
+
+https://github.com/user-attachments/assets/0213afa9-f0c8-47b0-8a02-ab27cd700540
+
 
 ---
 
